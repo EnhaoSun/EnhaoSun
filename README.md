@@ -2,5 +2,5 @@
 
 <h2 align="center">Hi, I'm <a href="http://enhaosun.com">Enhao</a> 👋</h1>
 
-- 📝 http://enhaosun.com
+- 📝 enhaosun.com
 - ☕ Coffee or Tea ?
